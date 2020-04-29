@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NestedScrollViewIssue</string>
+    <string name="read_before_booking">Read before booking</string>
+</resources>
